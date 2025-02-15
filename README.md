@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarekul Islam Tanju
 - 👀 I’m interested in Programming, Problem Solving, Learning New things & sharring. 
-- 🌱 I’m currently working as a software developer for Link-Up Technology Ltd.
+- 🌱 I’m currently working as a Senior Software Engineer (Laravel) for BDTaskltd
 - 💞️ I’m looking to collaborate on Developer team for supporting, knowledge sharring & growing my skills 
 - 📫 How to reach me ...
 
